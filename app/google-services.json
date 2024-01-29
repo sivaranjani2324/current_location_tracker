@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "326821934702",
+    "project_id": "drone-app-6109c",
+    "storage_bucket": "drone-app-6109c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326821934702:android:dc3f1e2b1bdccc0cc5187f",
+        "android_client_info": {
+          "package_name": "com.example.drone_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi9WkE3LUVVJ1cobZu9CUaIdDTCGvWyTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
